@@ -1,5 +1,5 @@
 # Responsive-Web-design
-<h1 style="font-family:lemon;text-align:center;">Responsive Website for all devices desktop, mobile, and tablet, etc.<h1>
+<h3 style="font-family:lemon;background-color:black;color:white;">Responsive Website for all devices desktop, mobile, and tablet, etc.</h3>
 
 <img src="website_descktop1.JPG" width="100%" alt="picture">
 <img src="website_descktop2.JPG" width="100%" alt="picture">
